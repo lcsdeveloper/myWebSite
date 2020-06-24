@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@1,700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  background-image: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url(/img/bg6.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.navbar-brand, li {
+  font-family: 'Lobster', cursive;
+}
+
+.height-90 {
+  min-height: 90vh;
+
+}
+
+/* COLORS */
