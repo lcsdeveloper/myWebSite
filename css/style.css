@@ -22,7 +22,12 @@ h1 {
 }
 
 .height-90 {
-  min-height: 50vh;
+  min-height: 90vh;
+
+}
+
+.height-10 {
+  min-height: 10vh;
 
 }
 
