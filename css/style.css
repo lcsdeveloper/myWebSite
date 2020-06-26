@@ -11,12 +11,14 @@ header {
 }
 
 
-h1 {
+h1,h2 {
   font-family: 'Lobster', cursive;
   font-weight: 700;
   font-style: italic;
 }
-
+ p,h3 {
+   font-family: 'Roboto', sans-serif;;
+ }
 .navbar-brand, li {
   font-family: 'Lobster', cursive;
 }
