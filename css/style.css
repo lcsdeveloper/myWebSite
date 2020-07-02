@@ -11,7 +11,7 @@ header {
 }
 
 
-h1, h2, h4 {
+h1, h4 {
   font-family: 'Lobster', cursive;
   letter-spacing: .3rem;
 }
@@ -29,10 +29,15 @@ h3 {
 
 }
 
+.height-50{
+  min-height: 50vh;
+}
+
 .height-10 {
   min-height: 10vh;
 
 }
+
 
 /* colors */
 .text-purple{
