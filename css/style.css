@@ -4,35 +4,43 @@ header {
   font-family: 'Roboto', sans-serif;
   min-height: 100vh;
   background-color: #f8f6f6;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(../img/bg04.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/bg04.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
 
-h1, h4 {
+h1,
+h4 {
   font-family: 'Lobster', cursive;
-  letter-spacing: .3rem;
+  letter-spacing: 0.3rem;
 }
-.bg-effect{
+
+.bg-effect {
   background-color: #00000069;
 }
 
 h3 {
-   font-family: 'Roboto', sans-serif;
- }
+  font-family: 'Roboto', sans-serif;
+}
 
-.navbar-brand, li {
+.navbar-brand,
+li {
   font-family: 'Lobster', cursive;
 }
-
+/* about section */
+.img-about {
+  width: 150px;
+  height: 150px;
+}
+/* height */
 .height-90 {
   min-height: 90vh;
-
 }
 
-.height-50{
+.height-50 {
   min-height: 50vh;
 }
 
@@ -40,16 +48,15 @@ h3 {
   min-height: 10vh;
 }
 
-.height-45{
+.height-45 {
   min-height: 45vh;
 }
 
-
 /* colors */
-.text-purple{
+.text-purple {
   color: #876cb1;
 }
 
-.text-blue-react{
-  color: #61DBFB;
+.text-blue-react {
+  color: #61dbfb;
 }
