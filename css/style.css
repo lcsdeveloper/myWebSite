@@ -4,7 +4,7 @@ header {
   font-family: 'Roboto', sans-serif;
   min-height: 100vh;
   background-color: #f8f6f6;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url(../img/bg01.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(../img/bg04.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
