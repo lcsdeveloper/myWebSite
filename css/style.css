@@ -2,12 +2,19 @@
 
 header {
   font-family: 'Roboto', sans-serif;
-  background-image: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)), url(../img/bg6.jpeg);
+  min-height: 100vh;
+  background-color: #f8f6f6;
+}
+.img-pc {
+  width: 200px;
+  height: 200px;
+}
+.img-col{
+  background-image: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)), url(../img/bg01.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 100vh;
 }
 
 
@@ -35,7 +42,10 @@ h3 {
 
 .height-10 {
   min-height: 10vh;
+}
 
+.height-45{
+  min-height: 45vh;
 }
 
 
