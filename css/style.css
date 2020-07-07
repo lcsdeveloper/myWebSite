@@ -4,23 +4,19 @@ header {
   font-family: 'Roboto', sans-serif;
   min-height: 100vh;
   background-color: #f8f6f6;
-}
-.img-pc {
-  width: 200px;
-  height: 200px;
-}
-.img-col{
-  background-image: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)), url(../img/bg01.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url(../img/bg01.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
 
-
 h1, h4 {
   font-family: 'Lobster', cursive;
   letter-spacing: .3rem;
+}
+.bg-effect{
+  background-color: #00000069;
 }
 
 h3 {
