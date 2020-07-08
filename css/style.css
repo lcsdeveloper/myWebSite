@@ -3,8 +3,7 @@
 header {
   font-family: 'Roboto', sans-serif;
   min-height: 100vh;
-  background-color: #f8f6f6;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../img/bg04.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -15,10 +14,6 @@ h1,
 h4 {
   font-family: 'Lobster', cursive;
   letter-spacing: 0.3rem;
-}
-
-.bg-effect {
-  background-color: #00000069;
 }
 
 h3 {
@@ -37,15 +32,12 @@ h3 {
 .height-90 {
   min-height: 90vh;
 }
-
 .height-50 {
   min-height: 50vh;
 }
-
 .height-10 {
   min-height: 10vh;
 }
-
 .height-45 {
   min-height: 45vh;
 }
@@ -57,4 +49,8 @@ h3 {
 
 .text-blue-react {
   color: #61dbfb;
+}
+
+.bg-grey{
+  background-color: #f4f4f4;
 }
